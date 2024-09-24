@@ -9,7 +9,8 @@
 
 .modalImg {
   width: 100%;
-  height: 720px;
+  height: 700px;
   border-radius: 20px;
   object-fit: contain;
+  border: none;
 }

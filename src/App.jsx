@@ -7,7 +7,6 @@ import Loader from "./components/Loader/Loader";
 import LoadMoreBtn from "./components/LoadMoreBtn/LoadMoreBtn";
 import SearchBar from "./components/SearchBar/SearchBar";
 import "./App.css";
-import "modern-normalize";
 
 function App() {
   const [images, setImages] = useState([]);
